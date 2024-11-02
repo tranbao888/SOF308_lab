@@ -1,5 +1,6 @@
 <template>
   <h1>BLOG PAGE</h1>
+  <table>hello</table>
 </template>
 
 <script>
