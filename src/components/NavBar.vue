@@ -12,7 +12,14 @@
                 </ul>
             </li>
             <li><router-link to="/blog">Blog</router-link></li>
-            <li><router-link to="/about">About</router-link></li>
+            <li>
+                <router-link to="/about">Lab2</router-link>
+                <ul>
+                    <li><router-link to="/Lab2/bai1">Bài 1</router-link></li>
+                    <li><router-link to="/Lab2/bai2">Bài 23</router-link></li>
+                    <li><router-link to="/Lab2/bai4">Bài 4</router-link></li>
+                </ul>
+            </li>
         </ul>
     </nav>
 </template>

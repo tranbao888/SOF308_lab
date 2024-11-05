@@ -51,7 +51,7 @@
     <aside class="col-sm-4 p-3 rounded">
       <!-- <div class="col-sm-4"> -->
       <h2 class="text-info mb-4">Về tôi</h2>
-      <div class="card blog">
+      <div class="card blog border bg-body">
         <img src="/images/avatar.png" class="card-img-top" aLt="..">
         <div class="card-body">
           <h5 class="card-title">Giới thiệu bản thân</h5>
@@ -129,7 +129,7 @@
 
   <!-- View More Button -->
   <div class="text-center">
-    <button class="view-more-btn">Xem thêm</button>
+    <button class="view-more-btn bg-info">Xem thêm</button>
   </div>
 
 </article>
